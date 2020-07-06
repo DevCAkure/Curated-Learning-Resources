@@ -10,3 +10,4 @@ jobs:
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: 'Hey, there! :wave:
+          We welcome all kinds of contributions, please feel free to ask questions or make suggesstions.
