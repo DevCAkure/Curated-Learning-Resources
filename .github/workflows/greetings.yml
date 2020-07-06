@@ -6,3 +6,4 @@ jobs:
   greeting:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/first-interaction@v1
