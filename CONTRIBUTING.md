@@ -16,3 +16,13 @@ Before you make a Pull Request, do ensure your PR meets the following guidelines
 - Make sure your text editor is set to remove trailing whitespace.
 - Pull requests should have a useful title and description.
 - The body of your commit message should contain a link to the resource.
+
+> Do also check out these following tutorials, if you're new to Git and Github:
+  * [Popular git commands and how to use them](https://rogerdudler.github.io/git-guide/)
+  * [Git commands in depth](https://medium.com/@george.seif94/a-full-tutorial-on-how-to-use-github-88466bac7d42)
+  * [How to Create a Markdown Table](https://www.makeuseof.com/tag/create-markdown-table/)
+  * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+  * [Markdown Tutorial](https://www.markdowntutorial.com/)
+  * [Introduction to git](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)  
+  * [Introduction to GitHub](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+  
